@@ -26,7 +26,7 @@ export class Login extends Component{
             />
             </div>
             <div style={{paddingTop:"18px"}}>
-            <Button style={{backgroundColor:"#007cba"}} type="button" onClick={()=> console.log("hereeee")}>Submit</Button></div>
+            <Button style={{backgroundColor:"#007cba",color:"white"}} type="button" onClick={()=> console.log("hereeee")}>Login</Button></div>
             </div>
         )
     }
